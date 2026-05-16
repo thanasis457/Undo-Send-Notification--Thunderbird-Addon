@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Undo Send",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Delays sending an email and provides a notification to undo it.",
   "permissions": [
     "compose",
